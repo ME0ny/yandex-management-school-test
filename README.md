@@ -1,0 +1,1 @@
+# yandex-management-school-test
